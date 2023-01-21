@@ -1,0 +1,4 @@
+# 0-9
+# A-Za-Z
+# Total base64
+bDNhcm5fdGgzX3IwcDM1

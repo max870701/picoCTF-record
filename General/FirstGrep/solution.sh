@@ -1,0 +1,1 @@
+egrep '^picoCTF' file
